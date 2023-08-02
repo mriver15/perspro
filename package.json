@@ -1,0 +1,32 @@
+{
+  "name": "perspro",
+  "version": "1.0.0",
+  "description": "Personal Profie - Michael Rivera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mriver15/perspro.git"
+  },
+  "keywords": [
+    "profile",
+    "portfolio",
+    "personal",
+    "development",
+    "web",
+    "javascript",
+    "react"
+  ],
+  "author": "Michael Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mriver15/perspro/issues"
+  },
+  "homepage": "https://github.com/mriver15/perspro#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
